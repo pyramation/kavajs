@@ -19,7 +19,7 @@ npm install kavajs
 - [Usage](#usage)
     - [RPC Clients](#rpc-clients)
     - [Composing Messages](#composing-messages)
-        - Cosmos, CosmWasm, and IBC
+        - Cosmos and IBC
             - [IBC](#ibc-messages)
             - [Cosmos](#cosmos-messages)
 - [Wallets and Signers](#connecting-with-wallets-and-signing-messages)
