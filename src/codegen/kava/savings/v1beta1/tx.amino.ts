@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { AminoMsg } from "@cosmjs/amino";
 import { MsgDeposit, MsgWithdraw } from "./tx";
 export interface AminoMsgDeposit extends AminoMsg {

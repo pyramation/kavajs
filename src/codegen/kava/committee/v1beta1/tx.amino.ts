@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { voteTypeFromJSON } from "./genesis";
 import { AminoMsg } from "@cosmjs/amino";
 import { Long } from "../../../helpers";

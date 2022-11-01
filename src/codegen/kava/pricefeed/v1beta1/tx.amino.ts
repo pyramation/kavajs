@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { AminoMsg } from "@cosmjs/amino";
 import { MsgPostPrice } from "./tx";
 export interface AminoMsgPostPrice extends AminoMsg {
